@@ -104,7 +104,6 @@ For additional info, contact Jack Locke at [jackdlocke@gmail.com](mailto:jackdlo
 ## Repository Structure
 
 ```
-├── data
 ├── images
 ├── README.md
 ├── presentation.pdf
