@@ -21,9 +21,9 @@
     * c. Categorical/Numerical Columns
     * d. Baseline Linear Regression (No PCA)
     * e. Three Regression Models
-            * Linear Regression (with PCA)
-            * Decision Tree Regression
-            * LinearSVR
+        * Linear Regression (with PCA)
+        * Decision Tree Regression
+        * LinearSVR
     * f. Tuning LinearSVR with Gridsearch
 6. Evaluation
     * a. Final Model
