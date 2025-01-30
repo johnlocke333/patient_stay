@@ -4,32 +4,32 @@
 
 # Overview
 1. Business Understanding
-        * a. Domain Knowledge
+    * a. Domain Knowledge
 2. Data Understanding
 3. Data Preparation
-        * a. Dropping Unnecessary Columns
-        * b. Handle Missing/Null Values
-        * c. Handle Placeholder Values/Column Manipulation
-        * d. Primary Column Information
+    * a. Dropping Unnecessary Columns
+    * b. Handle Missing/Null Values
+    * c. Handle Placeholder Values/Column Manipulation
+    * d. Primary Column Information
 4. Exploratory Data Analysis
-        * a. Patient Disposition vs. Length of Stay
-        * b. Diagnosis vs. Length of Stay
-        * c. Procedure vs. Length of Stay
+    * a. Patient Disposition vs. Length of Stay
+    * b. Diagnosis vs. Length of Stay
+    * c. Procedure vs. Length of Stay
 5. Modeling
-        * a. Train/Validation/Test Splits
-        * b. Evaluation Metrics
-        * c. Categorical/Numerical Columns
-        * d. Baseline Linear Regression (No PCA)
-        * e. Three Regression Models
+    * a. Train/Validation/Test Splits
+    * b. Evaluation Metrics
+    * c. Categorical/Numerical Columns
+    * d. Baseline Linear Regression (No PCA)
+    * e. Three Regression Models
             * Linear Regression (with PCA)
             * Decision Tree Regression
             * LinearSVR
-        * f. Tuning LinearSVR with Gridsearch
+    * f. Tuning LinearSVR with Gridsearch
 6. Evaluation
-        * a. Final Model
+    * a. Final Model
 7. Conclusions
-        * a. Limitations
-        * b. Recommendations/Next Steps
+    * a. Limitations
+    * b. Recommendations/Next Steps
 
 
 # Business Understanding
