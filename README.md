@@ -122,3 +122,5 @@ For additional info, contact Jack Locke at [jackdlocke@gmail.com](mailto:jackdlo
 * 9: https://scikit-learn.org/0.18/modules/generated/sklearn.svm.LinearSVR.html
 * 10: https://www.dataleadsfuture.com/ensuring-correct-use-of-transformers-in-scikit-learn-pipeline/#:~:text=Pipeline%20calls%20each%20Transformer's%20transform,predict%20on%20the%20test%20data.
 * 11: https://datascience.stackexchange.com/questions/102364/improve-linearsvc
+* 12: https://www.healthdirect.gov.au/health-topics/procedures
+* 13: https://www.healthywa.wa.gov.au/Health-conditions/Health-conditions-A-to-Z
